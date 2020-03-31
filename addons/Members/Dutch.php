@@ -11,7 +11,7 @@
 $members_language = array(
 	'members' => 'Leden',
 	'members_icon' => '', // Icon to display before the text in the navbar
-	'username' => 'Gebruikersnaam',
-	'group' => 'Groep/Rank',
+	'username' => 'GamingTod',
+	'group' => 'Owner',
 	'created' => 'Geregistreerd',
 );
